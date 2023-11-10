@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/components/MovieDetail.css */
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+h2 {
+  color: #007bff;
+}
+
+p {
+  line-height: 1.6;
+}
